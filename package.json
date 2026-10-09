@@ -1,0 +1,9 @@
+{
+  "name": "sunexa",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SUNEXA — Ideas to Impact",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

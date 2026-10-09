@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "SUNEXA — Ideas to Impact" },
+    { "path": "/start-project", "title": "SUNEXA — Start a Project" },
+    { "path": "/contact", "title": "SUNEXA — Contact" },
+    { "path": "/services/web-development", "title": "SUNEXA — Web Development" },
+    { "path": "/services/software-development", "title": "SUNEXA — Software Development" },
+    { "path": "/services/business-automation", "title": "SUNEXA — Business Automation" },
+    { "path": "/services/ai-solutions", "title": "SUNEXA — AI Solutions" },
+    { "path": "/services/web-maintenance", "title": "SUNEXA — Web Maintenance" },
+    { "path": "/services/domain-hosting", "title": "SUNEXA — Domain & Hosting" }
+  ]
+}
